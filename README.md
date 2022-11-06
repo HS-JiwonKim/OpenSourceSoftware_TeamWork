@@ -1,2 +1,2 @@
-# OpenSourceSoftware_TeamWork
-Hansung University OpenSource Software Teamwork
+# OpenSourceSoftware_TeamProject
+Hansung University OpenSource Software Team Project
